@@ -1,0 +1,3 @@
+name: aws-native-tagging
+runtime: nodejs
+description: Tagging AWS resources with aws-native provider
