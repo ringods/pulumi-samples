@@ -1,0 +1,3 @@
+name: stack-outputs
+runtime: nodejs
+description: Small program used to explain how stack outputs work
