@@ -1,0 +1,3 @@
+name: component-resource
+runtime: nodejs
+description: Small program used to explain how Pulumi works

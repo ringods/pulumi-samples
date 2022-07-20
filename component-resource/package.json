@@ -1,0 +1,17 @@
+{
+    "name": "component-resource",
+    "main": "src/index.ts",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^28.1.6",
+        "@types/node": "^14",
+        "ts-jest": "^28.0.7"
+    }
+}
